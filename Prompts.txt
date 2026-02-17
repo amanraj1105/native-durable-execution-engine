@@ -1,0 +1,5 @@
+Prompt 1: Help me design a durable workflow engine in Java.
+Prompt 2: Upgrade engine to handle zombie steps.
+Prompt 3: Add automatic sequence ID generation.
+Prompt 4: Make project 100% submission ready.
+Prompt 5: Generate polished README.
